@@ -1,26 +1,21 @@
-## Welcome to GitHub Pages
 
-### Markdown
+# Boostrap 4 Github Pages
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![Build Status](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages.svg?branch=master)](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages)
 
-```markdown
-Syntax highlighted code block
+A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
-# Header 1
-## Header 2
-### Header 3
+* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
+* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
+* Full support of Bootstrap's JavaScript plugins.
+* Supports all features of Github Pages and Jekyll.
 
-- Bulleted
-- List
+[See the website for demonstration and documentation](https://nicolas-van.github.io/bootstrap-4-github-pages/).
 
-1. Numbered
-2. List
-3. Stuff
+## Contribution
 
-**Bold** and _Italic_ and `Code` text
+[See the contribution guide.](./CONTRIBUTING.md)
 
-[Link](url) and ![Image](src)
-```
+## License
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[See the license file.](./LICENSE.md)
